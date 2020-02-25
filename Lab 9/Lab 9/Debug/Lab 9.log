@@ -1,0 +1,4 @@
+﻿  Lab 9.cpp
+D:\Study\Visual projects\Labs\Lab 9\Lab 9\Lab 9.cpp(106,30): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\Study\Visual projects\Labs\Lab 9\Lab 9\Lab 9.cpp(38,22): warning C4101: rez: неиспользованная локальная переменная
+  Lab 9.vcxproj -> D:\Study\Visual projects\Labs\Lab 9\Debug\Lab 9.exe
